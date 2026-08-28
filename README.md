@@ -1,19 +1,46 @@
-# Hi, I'm Kit 🚀
+# Hi, I am Kengah Ireneaus (Kit)
 
-I am a Computer Engineering student based in Bamenda, Cameroon, pursuing a long-term engineering path focused on systems software, operating systems, and AI infrastructure.
+Computer Engineering student in Bamenda, Cameroon. I am building a long-term path in **systems software**, **operating systems**, and **AI infrastructure**, with a bias toward tools that are small, inspectable, and production-useful.
 
-## 🛠️ Current Focus
-* **The Holiday Execution Block:** I am currently using a 5-month sprint to sharpen my Python and Bash automation skills and execute production-ready projects for freelance engineering.
-* **Systems Architecture:** Building foundational competencies in C/C++, Linux internals, and high-performance algorithms.
+**Current work:** sharpening Bash, Python, and Linux internals by shipping practical automation rather than collecting tutorials.
 
-## 🎯 Long-Term Engineering Interests
-* High-Performance Computing (HPC) & Custom Protocols
-* Kernel/Driver Development & Hardware Automation Testing
-* AI Infrastructure Optimization
+---
 
-## 🌐 Connect & Track
-* **GitHub Username:** 4kit1-glitch
-* Driven by a builder mindset: Less planning, more shipping.
+## Current Focus
+
+- **Systems automation:** production-style Bash and Python utilities that collect, normalize, and act on machine state.
+- **Foundations:** C/C++, Linux internals, process and resource management, and high-performance algorithms.
+- **Shipping discipline:** fewer plans, more working repositories with clear READMEs and tests.
+
+## Selected Work
+
+| Project | What it does |
+| --- | --- |
+| [sysk](https://github.com/4kit1-glitch/sysk) | System health monitor. Bash collects CPU, memory, disk, thermal, and hardware signals; Python applies rules and returns a health verdict. |
+
+
+
+
+## Long-Term Interests
+
+- High-performance computing and custom protocols
+- Kernel and driver development, plus hardware automation testing
+- AI infrastructure: efficiency, observability, and systems-level optimization
+
+## Toolbox
+
+`Bash` · `Python` · `C` · `C++` · `Linux` · `Git` · `jq`
+
+I treat each repository as a lab notebook: the code should explain how I think, not only that I finished a tutorial.
+
+## Connect
+
+- GitHub: [4kit1-glitch](https://github.com/4kit1-glitch)
+- DEV: [dev.to/4kit1-glitch](https://dev.to/4kit1-glitch)
+- Medium: [medium.com/@4jrkit1](https://medium.com/@4jrkit1)
+- LinkedIn: [kengah-ireneaus-tambang](https://www.linkedin.com/in/kengah-ireneaus-tambang)
+
+Builder rule I keep: **less planning, more shipping.**
 <!--
 **4kit1-glitch/4kit1-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
