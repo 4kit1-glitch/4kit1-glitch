@@ -10,7 +10,6 @@ Computer Engineering student in Bamenda, Cameroon. I am building a long-term pat
 
 - **Systems automation:** production-style Bash and Python utilities that collect, normalize, and act on machine state.
 - **Foundations:** C/C++, Linux internals, process and resource management, and high-performance algorithms.
-- **Shipping discipline:** fewer plans, more working repositories with clear READMEs and tests.
 
 ## Selected Work
 
@@ -39,8 +38,6 @@ I treat each repository as a lab notebook: the code should explain how I think, 
 - DEV: [dev.to/4kit1-glitch](https://dev.to/4kit1-glitch)
 - Medium: [medium.com/@4jrkit1](https://medium.com/@4jrkit1)
 - LinkedIn: [kengah-ireneaus-tambang](https://www.linkedin.com/in/kengah-ireneaus-tambang)
-
-Builder rule I keep: **less planning, more shipping.**
 <!--
 **4kit1-glitch/4kit1-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
