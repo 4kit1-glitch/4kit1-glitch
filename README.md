@@ -1,54 +1,67 @@
-# Hi, I am Kengah Ireneaus (Kit)
+<div align="center">
 
-Computer Engineering student in Bamenda, Cameroon. I am building a long-term path in **systems software**, **operating systems**, and **AI infrastructure**, with a bias toward tools that are small, inspectable, and production-useful.
+  <h1>Hi, I'm Kengah Ireneaus 👋</h1>
+  <h3><i>Building My Foundations | Python, C & Systems Development</i></h3>
 
-**Current work:** sharpening Bash, Python, and Linux internals by shipping practical automation rather than collecting tutorials.
+  <br />
+
+  <a href="https://github.com/4kit1-glitch">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&height=50&lines=Building+foundations+in+Python+%26+C...;Automating+tasks+with+Bash...;Learning+%26+solving+low-level+problems..." alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://dev.to/4kit1-glitch">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@4jrkit1">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.linkedin.com/in/kengah-ireneaus-tambang">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
 
 ---
 
-## Current Focus
+### 👨‍💻 About Me
 
-- **Systems automation:** production-style Bash and Python utilities that collect, normalize, and act on machine state.
-- **Foundations:** C/C++, Linux internals, process and resource management, and high-performance algorithms.
+- 📍 **Location:** Bamenda, Cameroon  
+- 🛠️ **Current Focus:** Strengthening core computer science foundations with **Python**, low-level programming in **C**, and scripting with **Bash**.  
+- ✍️ **Writing:** Sharing insights, learning paths, and technical notes on [Dev.to](https://dev.to/4kit1-glitch) and [Medium](https://medium.com/@4jrkit1).  
+- 🎯 **Goal:** Building solid software engineering principles and crafting scalable, efficient software.
 
-## Selected Work
+---
 
-| Project | What it does |
-| --- | --- |
-| [sysk](https://github.com/4kit1-glitch/sysk) | System health monitor. Bash collects CPU, memory, disk, thermal, and hardware signals; Python applies rules and returns a health verdict. |
+### 🛠️ Languages & Tools
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
+---
 
+### 📊 GitHub Stats
 
-## Long-Term Interests
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4kit1-glitch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4kit1-glitch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-- High-performance computing and custom protocols
-- Kernel and driver development, plus hardware automation testing
-- AI infrastructure: efficiency, observability, and systems-level optimization
+<br />
 
-## Toolbox
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4kit1-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-`Bash` · `Python` · `C` · `C++` · `Linux` · `Git` · `jq`
+---
 
-I treat each repository as a lab notebook: the code should explain how I think, not only that I finished a tutorial.
-
-## Connect
-
-- GitHub: [4kit1-glitch](https://github.com/4kit1-glitch)
-- DEV: [dev.to/4kit1-glitch](https://dev.to/4kit1-glitch)
-- Medium: [medium.com/@4jrkit1](https://medium.com/@4jrkit1)
-- LinkedIn: [kengah-ireneaus-tambang](https://www.linkedin.com/in/kengah-ireneaus-tambang)
-<!--
-**4kit1-glitch/4kit1-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub><i>"Build it anyways."</i></sub>
+</div>
