@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 About Me
+##  About Me
 
 - **Location:** Bamenda, Cameroon  
 - **Current Focus:** Strengthening core computer science foundations with **Python**, low-level programming in **C**, and scripting with **Bash**.  
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4kit1-glitch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
