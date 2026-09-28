@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Kengah Ireneaus 👋</h1>
+  <h1>Hi, I'm Kengah Ireneaus</h1>
   <h3><i>Building My Foundations | Python, C & Systems Development</i></h3>
 
   <br />
@@ -27,10 +27,10 @@
 
 ### 👨‍💻 About Me
 
-- 📍 **Location:** Bamenda, Cameroon  
-- 🛠️ **Current Focus:** Strengthening core computer science foundations with **Python**, low-level programming in **C**, and scripting with **Bash**.  
-- ✍️ **Writing:** Sharing insights, learning paths, and technical notes on [Dev.to](https://dev.to/4kit1-glitch) and [Medium](https://medium.com/@4jrkit1).  
-- 🎯 **Goal:** Building solid software engineering principles and crafting scalable, efficient software.
+- **Location:** Bamenda, Cameroon  
+- **Current Focus:** Strengthening core computer science foundations with **Python**, low-level programming in **C**, and scripting with **Bash**.  
+- **Writing:** Sharing insights, learning paths, and technical notes on [Dev.to](https://dev.to/4kit1-glitch) and [Medium](https://medium.com/@4jrkit1).  
+- **Goal:** Building solid software engineering principles and crafting scalable, efficient software.
 
 ---
 
