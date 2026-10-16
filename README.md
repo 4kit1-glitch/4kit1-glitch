@@ -1,15 +1,13 @@
 <div align="center">
 
-  <h1>Hi, I'm Kengah Ireneaus</h1>
-  <h3><i>Building My Foundations | Python, C & Systems Development</i></h3>
+  <h1>Hi, I'm Kengah Ireneaus (Kit)</h1>
+  <h3>Computer Engineering Student | Systems & Automation</h3>
 
   <br />
 
-  <a href="https://github.com/4kit1-glitch">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&height=50&lines=Building+foundations+in+Python+%26+C...;Automating+tasks+with+Bash...;Learning+%26+solving+low-level+problems..." alt="Typing SVG" />
-  </a>
+  <p>Building system tools in Python and Bash | Learning C | Target: Systems Software & AI Infrastructure</p>
 
-  <br /><br />
+  <br />
 
   <a href="https://dev.to/4kit1-glitch">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
@@ -25,16 +23,27 @@
 
 ---
 
-##  About Me
+### About Me
 
-- **Location:** Bamenda, Cameroon  
-- **Current Focus:** Strengthening core computer science foundations with **Python**, low-level programming in **C**, and scripting with **Bash**.  
-- **Writing:** Sharing insights, learning paths, and technical notes on [Dev.to](https://dev.to/4kit1-glitch) and [Medium](https://medium.com/@4jrkit1).  
-- **Goal:** Building solid software engineering principles and crafting scalable, efficient software.
+- Computer Engineering student based in Bamenda, Cameroon.
+- I build command-line automation tools and system utilities using Python and Bash while expanding my low-level programming foundation in C.
+- I write about my technical implementations and project walkthroughs on Dev.to and Medium.
+- Long-term goal: Systems software and AI infrastructure engineering.
 
 ---
 
-## Languages & Tools
+### Featured Projects
+
+- **sysk** - A CLI system health monitor that tracks memory, CPU usage, and running processes in real time.
+- **log analyser** - A script that parses log files to identify error patterns, frequency, and system bottlenecks.
+- **kclip** - A lightweight CLI clipboard manager for saving, searching, and reusing terminal text snippets.
+- **filorgk** - A desktop organizer script that sorts loose files into structured directories based on file extensions.
+- **autoOBD** - An automated environment installer that sets up local development dependencies with a single command.
+- **InstantGitSearch** - A CLI tool using the GitHub API to query repositories, users, and code directly from the terminal.
+
+---
+
+### Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
