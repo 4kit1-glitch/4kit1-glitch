@@ -1,49 +1,52 @@
-<div align="center">
+## Kengah Ireneaus (Kit)
 
-  <h1>Hi, I'm Kengah Ireneaus (Kit)</h1>
-  <h3>Computer Engineering Student | Systems & Automation</h3>
+            Computer Engineering Student | Systems, HPC & Low-Level Systems | Automation | bash | python  
+                                          Bamenda, Cameroon
 
-  <br />
+---
 
-  <p>Building system tools in Python and Bash | Learning C | Target: Systems Software & AI Infrastructure</p>
+### About Me
 
-  <br />
+I am a computer engineering student based in Bamenda, Cameroon, focusing on systems engineering, high-performance computing (HPC), and low-level systems architecture. I build task automation tools and system utilities using Python and Bash, while actively exploring C. I also share technical notes, project walkthroughs, and learning logs online.
 
+---
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kengah-ireneaus-tambang">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ireneaus65442">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
   <a href="https://dev.to/4kit1-glitch">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
   <a href="https://medium.com/@4jrkit1">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.linkedin.com/in/kengah-ireneaus-tambang">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:4jrkit1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-</div>
-
----
-
-### About Me
-
-- Computer Engineering student based in Bamenda, Cameroon.
-- I build command-line automation tools and system utilities using Python and Bash while expanding my low-level programming foundation in C.
-- I write about my technical implementations and project walkthroughs on Dev.to and Medium.
-- Long-term goal: Systems software and AI infrastructure engineering.
+</p>
 
 ---
 
 ### Featured Projects
 
-- **sysk** - A CLI system health monitor that tracks memory, CPU usage, and running processes in real time.
-- **log analyser** - A script that parses log files to identify error patterns, frequency, and system bottlenecks.
-- **kclip** - A lightweight CLI clipboard manager for saving, searching, and reusing terminal text snippets.
-- **filorgk** - A desktop organizer script that sorts loose files into structured directories based on file extensions.
-- **autoOBD** - An automated environment installer that sets up local development dependencies with a single command.
-- **InstantGitSearch** - A CLI tool using the GitHub API to query repositories, users, and code directly from the terminal.
+| Project | Repository Link | Description |
+| :--- | :--- | :--- |
+| **sysk** | [GitHub / sysk](https://github.com/4kit1-glitch/sysk) | A CLI system health monitor that tracks memory, CPU usage, and running processes in real time. |
+| **log analyser** | [GitHub / log-analyser](https://github.com/4kit1-glitch/log-analyser) | A script that parses log files to identify error patterns, frequency, and system bottlenecks. |
+| **kclip** | [GitHub / kclip](https://github.com/4kit1-glitch/kclip) | A lightweight CLI clipboard manager for saving, searching, and reusing terminal text snippets. |
+| **filorgk** | [GitHub / filorgk](https://github.com/4kit1-glitch/filorgk) | A desktop organizer script that sorts loose files into structured directories based on file extensions. |
+| **autoOBD** | [GitHub / autoOBD](https://github.com/4kit1-glitch/autoOBD) | An automated installer for OBS Studio and DroidCam. |
+| **InstantGitSearch** | [GitHub / InstantGitSearch](https://github.com/4kit1-glitch/InstantGitSearch) | A CLI tool using the GitHub API to query repositories, users, and code directly from the terminal. |
 
 ---
 
-### Languages & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
